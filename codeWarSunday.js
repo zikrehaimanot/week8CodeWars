@@ -8,7 +8,6 @@
 
 
 function bonusTime(salary, bonus) {
- var ihatejs= ""
  if (bonus === true){
  salary= salary * 10
  newSal= "£" + salary
