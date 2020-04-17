@@ -2,15 +2,6 @@
 //
 // Note: in C#, you'll always get the input as a string, so the above applies if the string isn't representing a double value.
 
-
-
-
-
-
-
-
-
-
 function problem(x){
   if(typeof x === "string"){
   return "Error"
